@@ -1,2 +1,2 @@
 # content-switch
-Distributed http content switch with node-httpp and iWebPP.io
+Distributed http content switch with nodejs-httpp and AppNet.link
